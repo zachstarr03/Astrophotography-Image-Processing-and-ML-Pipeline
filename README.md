@@ -1,0 +1,2 @@
+# Astrophotography-Image-Processing-and-ML-Pipeline
+An end-to-end Astrophotography Enhancement System. The tech stack for this project will consist of Python libraries for scientific computing, data science and exploration, computer vision, astronomy data processing, and software engineering. I am taking a modular architecture approach towards this project, and will be pushing new work onto this repo weekly.
