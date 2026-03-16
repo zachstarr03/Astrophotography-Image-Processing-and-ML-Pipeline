@@ -1,0 +1,10 @@
+# Astronomy data
+data/
+*.fits
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
